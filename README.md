@@ -4,7 +4,7 @@
 
 ## Format
 
-The meetup is very free-form, the basic structure is:
+The meetup is very free-form, but to be able to know what to expect
 
 1. Create an issue in this repo if you have a topic you want to hack on and get some people
 2. Create a very short introduction to your topic just so everybody know what it is about
