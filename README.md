@@ -11,3 +11,8 @@ The meetup is very free-form, but to be able to know what to expect
 3. Come to the Meetup introduce your topic and hack away!
 
 Any code snippets you create, have or want to share, you can post here or link in the issue. To make sure we don't have to many overlapping topics we will assign the issues to Milestones representing the meetups coming up.
+
+## Past Meetups
+
+### 21/04/2015
+- [Circuitbreakers](https://github.com/rubyhacknight/meetups/intro-to-circuitbox-part-1)

@@ -1,0 +1,6 @@
+source "https://rubygems.org"
+
+gem "circuitbox"
+gem "faraday"
+gem "rack"
+gem "rake"

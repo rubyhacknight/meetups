@@ -1,0 +1,18 @@
+require "fileutils"
+
+task :generate_slides do
+  FileUtils.mkdir "./slides" rescue nil
+  markdown = File.read "README.md"
+  split_into_slides(markdown).each_with_index do |content, index|
+    File.open("./slides/#{index + 1}.mdown", "w") do |file|
+      file.write content
+    end
+  end
+end
+
+def split_into_slides markdown
+  slides = markdown.split("#")
+  slides.shift
+  slides
+end
+

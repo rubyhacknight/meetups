@@ -1,0 +1,4 @@
+ Dependencies are down
+
+Easy to detect, and all we can do is serve a default
+

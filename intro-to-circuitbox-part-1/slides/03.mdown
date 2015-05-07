@@ -1,0 +1,5 @@
+ Isolating dependencies
+
+1. A dependency is down
+2. A dependency is slow
+

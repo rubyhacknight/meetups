@@ -1,0 +1,6 @@
+ Dependencies
+
+"Without taking steps to ensure fault tolerance, 30 dependencies each with 99.99%
+uptime would result in 2+ hours downtime/month (99.99%30 = 99.7% uptime = 2+
+hours in a month)." -- Netflix
+

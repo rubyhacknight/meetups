@@ -1,0 +1,5 @@
+ Why?
+
+Circuitbreakers which are configured right can make a service look healthy even
+though it is about to fall over. - and you want to know that!
+

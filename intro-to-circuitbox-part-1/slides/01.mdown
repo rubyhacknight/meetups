@@ -1,0 +1,6 @@
+ Reliablity
+
+"the ability of a system or component to perform its required functions under
+stated conditions for a specified period of time."
+-- according to wikipedia...
+

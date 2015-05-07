@@ -1,0 +1,5 @@
+ Circuitbreaker
+
+- Short circuit requests to a dependency with a lot of failures.
+- Give a dependency room to breath, and self heal (shedding load)
+

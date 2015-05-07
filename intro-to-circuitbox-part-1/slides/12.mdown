@@ -1,0 +1,6 @@
+ Some things to hack on or read up on
+
+http://martinfowler.com/bliki/CircuitBreaker.html
+Circuitbox  https://github.com/yammer/circuitbox
+Semian      https://github.com/shopify/semian
+
