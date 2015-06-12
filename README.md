@@ -1,3 +1,5 @@
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rubyhacknight/meetups?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 # Rubyhacknight meetups
 
 [Rubyhacknight](http://www.meetup.com/ruby-hacknight-london/) is a meetup focused on hacking ruby related apps and libs.
