@@ -17,4 +17,5 @@ Any code snippets you create, have or want to share, you can post here or link i
 ## Past Meetups
 
 ### 21/04/2015
-- [Circuitbreakers](https://github.com/rubyhacknight/meetups/intro-to-circuitbox-part-1)
+- [Circuitbreakers](https://github.com/rubyhacknight/meetups/tree/master/2015/april/intro-to-circuitbox-part-1)
+
