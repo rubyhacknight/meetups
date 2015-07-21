@@ -6,3 +6,5 @@ A few ideas for how to learn/improve at Ruby.
 * [PickAxe book](https://pragprog.com/book/ruby/programming-ruby)
 * [Beginning Ruby](http://peterc.org/beginningruby/)
 
+## Screencast
+* [Destory all Software](https://www.destroyallsoftware.com/screencasts) great screencast with Gary Bernhardt
